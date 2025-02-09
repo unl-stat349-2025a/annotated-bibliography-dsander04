@@ -9,18 +9,30 @@ citations-hover: false
 
 # Annual Review Article
 
-@annualrevarticle
-
+@vanderplas2020
 
 # References
 
-@ref1
+[@cleveland1987]
 
-- Summary
+-   Summary: At this time, computer graphics and visualization was just starting to take off, so researchers were interested in how best to share data to non-statisticians and computer scientists. If data information and important trends are not easily seen, understanding of the topic or data may be lost. Researchers used common principles of vision, as well as past studies, to create new experiments to measure graph-reading success. Slope judgement was the most prominent type of graph-reading studied. The article also discussed how to choose the correct data to display and which methods would be best to display it. It ended with a call to action to continue research in this field and encouraged collaboration between statisticians and computer scientists who created the data visualizations discussed in the paper.
 
-- Reliability and relationship to the topic
+-   Reliability and relationship to the topic: This article has a strong connection to the topic of "What Makes a Good Graph?" It discusses how people perceive graphs and how to improve graphs so trends and important information can be easily discerned by the audience. I think the main part of the paper is reliable, as it is written in a neutral tone and uses sources and experiments to back up its claims. What I love most about this paper, and what makes it extremely reliable to me, is that the authors included commentary on the paper after the references. Dozens of professors and scholars weighed in on how they interpreted the paper, giving praise as well as critique. That broad range of opinions warns readers about the potential shortcomings of the research, but also highlights important sections of the paper that many professionals agreed with.
 
-- Missing pieces
-    - thing 1
+-   Missing pieces:
 
-    - thing 2
+    -   I should really learn more about the Maximum Resolution Theorem if I want to understand the topic better. There is a large section on graphical perception in slope, and the paper uses this theorem to finalize a point they're making. Unfortunately, the paper says "The theorem, whose proof is straightforward, shows. . .", but I do not personally find the proof to be straightforward.
+
+    -   Another topic I would need to learn more about is the "median-absolute-slope procedure." At least two full pages are spent discussing this in relation to an observational study and the accompanying graphics. While reading through the full section a couple of times did help, I feel it would be best to check out other resources on the topic just to be safe.
+
+[@gelman2013]
+
+-   Summary: This article details the importance of data visualization in statistics. It is a helpful tool for summarizing data and finding patterns. It can also be the most efficient way for a statistician to get their point across to the general public. However, there is a fine line between a boring but efficient graph and a cool but confusing graph. Current statistical graphing methods are tried and true, and for the most part convey information to audiences well. However, they usually operate with the assumption that the audience has prior knowledge on the subject and are interested in the material. If this isn't the case, these graphs can be glossed over or easily forgotten. On the other hand, Infovis is a great way to catch a reader's attention and keep them interested in the topic. Unfortunately, it can be difficult to show the important relationships/patterns with these flashy visuals. Finding the perfect balance is exactly what this article hopes to do. It encourages statisticians, data scientists, and computer scientists to work together and discuss the benefits and drawbacks of both traditional visualization and the newer Infovis visualization.
+
+-   Reliability and relationship to the topic: This source seems to be trustworthy. It isn't written by workers at a data visualization company or any other source that might benefit from a positive view on new statistical visualizations. The article also says directly that they don't have all the answers or believe in a particular view, just that they want to facilitate discussion about the topic to improve the field of statistics. The article is beautifully related to the topic in my chosen article as they discuss almost the exact same thing: how do you best visualize data for the general population.
+
+-   Missing pieces:
+
+    -   Becoming familiar with Tukey's book, *Exploratory Data Analysis*, would be beneficial for me in understanding this article. Although it doesn't explicity pull any information from Tukey, the article makes it clear in the abstract and introduction that much of the background information and statisical theorey comes from Tukey.
+
+    -   Another important piece I would need to research more is the Infovis discussed in the article. While there are multiple examples of Infovis graphics shown, I don't know how difficult they are for statisticians to make or how they would be used in papers. I also don't know all of the different types and how they would compare to common statistical models. If I had more background knowledge, I'd be able to form my own opinion on the paper and understand arguments for both visualization techniques.
